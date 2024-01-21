@@ -1603,3 +1603,8 @@ The following settings have been applied:
 [2024.01.18-18.05.19:932][  1]Running Python start-up script 'E:/Epic games/UnrealEngine/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.055697 secs
 [2024.01.18-18.05.20:462][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.01.18-18.05.20:596][  2]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.18-18.05.32:976][162]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.01.18-18.05.32:981][163]LogAssetRegistry: AssetRegistryGather time 51.6669s: AssetDataDiscovery 0.1458s, AssetDataGather 51.4291s, StoreResults 0.0919s.
+[2024.01.18-18.05.33:057][163]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000028 seconds (updated 0 objects)
+[2024.01.18-18.05.33:118][164]LogAssetRegistry: Display: Asset registry cache written as 17.5 MiB to C:/Users/krro9/project/MyProject/Intermediate/CachedAssetRegistry_*.bin
+[2024.01.18-18.06.31:766][228]LogDerivedDataCache: C:/Users/krro9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.417 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1086 files in 1697 folders with total size 24 MiB.
